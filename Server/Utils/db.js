@@ -7,5 +7,5 @@ const connectDb = async () => {
     console.log(error);
   }
 };
-// connect
+
 export default connectDb;
